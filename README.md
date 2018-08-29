@@ -1,2 +1,3 @@
 # springCloudConfig
-use for springcloud test
+springcloud 配置 测试
+
